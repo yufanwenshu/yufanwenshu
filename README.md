@@ -29,4 +29,4 @@ I'm a student at Fudan University in Shanghai, China. My interests lie in machin
 
 ### 📈 GitHub Stats:
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?yufanwenshu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yufanwenshu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
